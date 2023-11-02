@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/potfolio/static/css/main.9e5cdbd2.css",
+    "main.js": "/potfolio/static/js/main.ecd59250.js",
+    "static/media/‏‏لقطة الشاشة (19).png": "/potfolio/static/media/‏‏لقطة الشاشة (19).0c7ac759e468b009384a.png",
+    "static/media/cv.pdf": "/potfolio/static/media/cv.c2cde00f630bb4f96baa.pdf",
+    "static/media/‏‏لقطة الشاشة (23).png": "/potfolio/static/media/‏‏لقطة الشاشة (23).5ccee1a9a2985975ef77.png",
+    "static/media/ap1.jpg": "/potfolio/static/media/ap1.aa1dbccccd9fb2735163.jpg",
+    "static/media/ap2.jpg": "/potfolio/static/media/ap2.152a0c8edb9dd1621824.jpg",
+    "index.html": "/potfolio/index.html",
+    "main.9e5cdbd2.css.map": "/potfolio/static/css/main.9e5cdbd2.css.map",
+    "main.ecd59250.js.map": "/potfolio/static/js/main.ecd59250.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e5cdbd2.css",
+    "static/js/main.ecd59250.js"
+  ]
+}
